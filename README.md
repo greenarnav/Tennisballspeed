@@ -27,4 +27,4 @@ Here is a screenshot from one of the output videos:
 * pytroch
 * pandas
 * numpy 
-* opencv
+
